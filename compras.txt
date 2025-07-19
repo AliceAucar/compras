@@ -12,3 +12,9 @@ pilsen
 double ipa
 pale ale
 sour
+
+bolo
+guaraná
+doce
+bala
+balao
