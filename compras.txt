@@ -18,3 +18,7 @@ guaraná
 doce
 bala
 balao
+camisa
+top
+calça
+casaco
