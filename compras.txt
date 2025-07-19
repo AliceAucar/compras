@@ -3,8 +3,12 @@
 tomate
 cebola
 
-gelo
+
 cerveja
 vinho
 manjericão
-etc
+
+pilsen
+double ipa
+pale ale
+sour
