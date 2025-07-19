@@ -12,3 +12,8 @@ pilsen
 double ipa
 pale ale
 sour
+
+camisa
+top
+calça
+casaco
