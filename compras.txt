@@ -17,4 +17,6 @@ bolo
 guaraná
 doce
 bala
-balao
+balão
+vela
+chapéu
